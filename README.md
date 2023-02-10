@@ -58,4 +58,4 @@ While connecting to Elastic cloud with python Elasticsearch client,cloud_id para
     client.indices.delete(index='index_name')
 
 ## Documentation
-For the complete Elasticsearch documentation visit (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+For the complete Elasticsearch documentation visit [elastic.co](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
