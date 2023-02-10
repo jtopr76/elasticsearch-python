@@ -9,7 +9,7 @@ Use the package manager [pip](https://pypi.org/project/elasticsearch/) to instal
 
 ## Usage
 
-CONNECTION AND AUTHENTICATION OF ELASTIC CLOUD WITH PYTHON CLIENT
+Connection and authentication of elastic cloud with python client
 
 While connecting to Elastic cloud with python Elasticsearch client,cloud_id parameter is used which can be found within the'Manage Deployment'page after a cluster has been created and api_key which also can be created while cluster creation.
 
