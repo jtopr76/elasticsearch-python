@@ -1,17 +1,17 @@
 # IMPLEMENTATION OF ELASTICSEARCH WITH PYTHON
 
 ## Installation
-    Use the package manager [pip] to install elasticsearch.
+Use the package manager [pip] to install elasticsearch.
 
    ```bash
-    $ pip install elasticsearch
+   $ pip install elasticsearch
    ```
 
 ## Usage
 
-    CONNECTION AND AUTHENTICATION OF ELASTIC CLOUD WITH PYTHON CLIENT
+CONNECTION AND AUTHENTICATION OF ELASTIC CLOUD WITH PYTHON CLIENT
 
-    While connecting to Elastic cloud with python Elasticsearch client,cloud_id parameter is used which can be found within the'Manage Deployment'page after a cluster has been created and api_key which also can be created while cluster creation.
+While connecting to Elastic cloud with python Elasticsearch client,cloud_id parameter is used which can be found within the'Manage Deployment'page after a cluster has been created and api_key which also can be created while cluster creation.
 
    ```bash
     from elasticsearch import Elasticsearch
@@ -58,4 +58,4 @@
     client.indices.delete(index='index_name')
 
 ## Documentation
-    For the complete Elasticsearch documentation visit (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+For the complete Elasticsearch documentation visit (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
