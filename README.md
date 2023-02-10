@@ -1,7 +1,7 @@
 # IMPLEMENTATION OF ELASTICSEARCH WITH PYTHON
 
 ## Installation
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install elasticsearch.
+Use the package manager [pip](https://pypi.org/project/elasticsearch/) to install elasticsearch.
 
    ```bash
    $ pip install elasticsearch
